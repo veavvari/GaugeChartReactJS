@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/veavvari/GaugeChartReactJS/static/css/main.401c3178.chunk.css",
+    "main.js": "/veavvari/GaugeChartReactJS/static/js/main.67ce5f4b.chunk.js",
+    "main.js.map": "/veavvari/GaugeChartReactJS/static/js/main.67ce5f4b.chunk.js.map",
+    "runtime-main.js": "/veavvari/GaugeChartReactJS/static/js/runtime-main.b6046807.js",
+    "runtime-main.js.map": "/veavvari/GaugeChartReactJS/static/js/runtime-main.b6046807.js.map",
+    "static/js/2.e682ac97.chunk.js": "/veavvari/GaugeChartReactJS/static/js/2.e682ac97.chunk.js",
+    "static/js/2.e682ac97.chunk.js.map": "/veavvari/GaugeChartReactJS/static/js/2.e682ac97.chunk.js.map",
+    "index.html": "/veavvari/GaugeChartReactJS/index.html",
+    "precache-manifest.b6de2846d12642108f0def7f1d4f0839.js": "/veavvari/GaugeChartReactJS/precache-manifest.b6de2846d12642108f0def7f1d4f0839.js",
+    "service-worker.js": "/veavvari/GaugeChartReactJS/service-worker.js",
+    "static/css/main.401c3178.chunk.css.map": "/veavvari/GaugeChartReactJS/static/css/main.401c3178.chunk.css.map",
+    "static/js/2.e682ac97.chunk.js.LICENSE.txt": "/veavvari/GaugeChartReactJS/static/js/2.e682ac97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6046807.js",
+    "static/js/2.e682ac97.chunk.js",
+    "static/css/main.401c3178.chunk.css",
+    "static/js/main.67ce5f4b.chunk.js"
+  ]
+}

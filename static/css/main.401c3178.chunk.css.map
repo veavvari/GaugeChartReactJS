@@ -1,0 +1,1 @@
+{"version":3,"sources":["GaugeChart.css"],"names":[],"mappings":"AAAA,WACI,uBACJ,CACA,YACI,qBACJ","file":"main.401c3178.chunk.css","sourcesContent":["#my :hover{\r\n    background-color: bisque;\r\n}\r\n#my1 :hover{\r\n    background-color: black;\r\n}"]}
